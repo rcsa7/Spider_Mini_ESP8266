@@ -1,0 +1,1 @@
+After installing the software according to the software installation prompts, select the correct board NodeMcu 1.0 in the Arduino software before modifying and developing!
